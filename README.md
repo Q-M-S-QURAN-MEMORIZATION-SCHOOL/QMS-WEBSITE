@@ -5,7 +5,6 @@ This open-source project is an application which enables easy access of students
 
 ## Basic Website Structure ䷦
 * Landing Page
-* Company's Page
-* Hostel's Page
+* About Us Page
 * User login and signup page
 * User dashboard page
