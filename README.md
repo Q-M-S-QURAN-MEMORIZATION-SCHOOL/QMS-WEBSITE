@@ -24,3 +24,14 @@ This open-source project is an application which enables easy access of students
  Step 4: ```git remote add upstream https://github.com/Q-M-S-QURAN-MEMORIZATION-SCHOOL/QMS-WEBSITE```  </br>
  Step 5: ```git pull upstream "branch"```  </br>
  Step 6: Check out to the task/feature branch | ```git checkout -b <NAME_OF_THE_TASK>```
+
+## Brief Sitemap💬 <hr>
+
+## Landing Page 🛬
+The landing page contains the basic details of the company. These includes:
+* About
+* Mission
+* Vision
+* Admin
+* Activities
+* Contact
