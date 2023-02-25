@@ -8,3 +8,10 @@ This open-source project is an application which enables easy access of students
 * About Us Page
 * User login and signup page
 * User dashboard page
+
+
+| **Contributors** | **Role** |
+| ----------- | ----------- |
+| [Adegoke Fuad](https://github.com/ALIPHATICHYD) | Design and Development |
+| [Lawal AbdulMalik](https://www.linkedin.com/in/lawal-malik/) | Design|
+| []() | Development |
