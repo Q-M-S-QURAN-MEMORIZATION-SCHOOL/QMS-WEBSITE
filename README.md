@@ -38,3 +38,12 @@ The landing page contains the basic details of the company. These includes:
 
 ## User login and signup page 📄
 This is the page where the user does the basic documentation of herself. It contains a form which allow users to input their details.
+
+## User dashboard page 📊
+This is the page that contains the graphical report of various data
+relevant to the user. It has five sections, namely:
+* Biodata
+* Payment
+* Results
+* Reviews
+* Terms and conditions
