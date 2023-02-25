@@ -35,3 +35,6 @@ The landing page contains the basic details of the company. These includes:
 * Admin
 * Activities
 * Contact
+
+## User login and signup page 📄
+This is the page where the user does the basic documentation of herself. It contains a form which allow users to input their details.
