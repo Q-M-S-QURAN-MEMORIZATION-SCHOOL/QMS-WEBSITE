@@ -15,3 +15,12 @@ This open-source project is an application which enables easy access of students
 | [Adegoke Fuad](https://github.com/ALIPHATICHYD) | Design and Development |
 | [Lawal AbdulMalik](https://www.linkedin.com/in/lawal-malik/) | Design|
 | []() | Development |
+
+
+## To Contribute here(Version control) 🛠️
+ Step 1: Click on Fork at the top right corner Step; </br>
+ Step 2: Clone your forked repository; </br>
+ Step 3: cd into the cloned folder | GrowersBrains; </br>
+ Step 4: ```git remote add upstream https://github.com/Jplayskeys/CBC-Hostel-Web-App```  </br>
+ Step 5: ```git pull upstream "branch"```  </br>
+ Step 6: Check out to the task/feature branch | ```git checkout -b <NAME_OF_THE_TASK>```
