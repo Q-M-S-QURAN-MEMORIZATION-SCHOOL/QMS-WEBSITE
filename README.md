@@ -6,6 +6,7 @@ This project is an application which enables easy access of students results. Th
 ## Basic Website Structure ䷦
 * Landing Page
 * About Us Page
+* Admin Dashboard
 * User login and signup page
 * User dashboard page
 
