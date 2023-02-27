@@ -14,7 +14,7 @@ This open-source project is an application which enables easy access of students
 | ----------- | ----------- |
 | [Adegoke Fuad](https://github.com/ALIPHATICHYD) | Design and Development |
 | [Lawal AbdulMalik](https://www.linkedin.com/in/lawal-malik/) | Design|
-| []() | Development |
+| [Aawode Toheeb](https://github.com/ALAWODE-TOHEEB) | Development |
 | [Mapelujo Abdulkareem](https://github.com/GentleMizt) | Development |
 
 
