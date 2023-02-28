@@ -49,3 +49,6 @@ relevant to the user. It has five sections, namely:
 * Results
 * Reviews
 * Terms and conditions
+
+## Admin Dashboard Page 
+
